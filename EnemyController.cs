@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿
+//script para comportamentos de bot's em jogos
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
