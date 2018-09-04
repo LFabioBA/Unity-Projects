@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿
+//script para comportamento default de um tiro
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
